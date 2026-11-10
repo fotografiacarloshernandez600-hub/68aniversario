@@ -1,0 +1,432 @@
+[
+  {
+    "id": 1,
+    "page": 2,
+    "day": 17,
+    "time": "11:00",
+    "title": "Ceremonia de inauguración del 68 aniversario",
+    "category": "Ceremonias",
+    "venue": "Auditorio CIVE",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 2,
+    "page": 3,
+    "day": 17,
+    "time": "12:30",
+    "title": "Recital de poesía: Las hortensias azules",
+    "category": "Literatura",
+    "venue": "Vestíbulo CIVE",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 3,
+    "page": 4,
+    "day": 17,
+    "time": "12:30",
+    "title": "Conversatorio: Habitar las páginas, el sentido de leer en papel",
+    "category": "Literatura",
+    "venue": "Aula Magna Lic. Efraín Pérez Cruz, DAEA",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 4,
+    "page": 5,
+    "day": 17,
+    "time": "18:00",
+    "title": "Concierto con sabor a Cuba: Alfonso Llorens",
+    "category": "Música",
+    "venue": "Teatro Universitario UJAT",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 5,
+    "page": 6,
+    "day": 18,
+    "time": "10:00",
+    "title": "Recital El origen de la sabiduría y concierto didáctico",
+    "category": "Literatura",
+    "venue": "Cancha Techada, DAMC",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 6,
+    "page": 7,
+    "day": 18,
+    "time": "12:00",
+    "title": "Libro: Recuerdos y anécdotas de mi pueblo",
+    "category": "Libros",
+    "venue": "Vestíbulo CIVE",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 7,
+    "page": 8,
+    "day": 18,
+    "time": "15:00",
+    "title": "Maratón aeróbico UJAT 2026",
+    "category": "Deporte",
+    "venue": "Cancha techada del CDUAT",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 8,
+    "page": 9,
+    "day": 18,
+    "time": "16:00",
+    "title": "Libro: Escribo, luego existo",
+    "category": "Libros",
+    "venue": "Vestíbulo CIVE",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 9,
+    "page": 10,
+    "day": 18,
+    "time": "18:00",
+    "title": "Concierto de gala: Carlos Prieto, Dos carreras, una vida",
+    "category": "Música",
+    "venue": "Teatro Universitario UJAT",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 10,
+    "page": 11,
+    "day": 19,
+    "time": "09:00",
+    "title": "15.º Maratón de Lectura UJAT: Las aventuras de Pinocho",
+    "category": "Literatura",
+    "venue": "Auditorio Biblioteca Central Manuel Bartlett Bautista",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 11,
+    "page": 12,
+    "day": 19,
+    "time": "09:00",
+    "title": "Libro: Espejo de agua",
+    "category": "Libros",
+    "venue": "Vestíbulo CIVE",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 12,
+    "page": 13,
+    "day": 19,
+    "time": "11:00",
+    "title": "Recital de poesía: Definitivamente jueves",
+    "category": "Literatura",
+    "venue": "Vestíbulo CIVE",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 13,
+    "page": 14,
+    "day": 19,
+    "time": "12:00",
+    "title": "Libro: Cuaderno de Santiago / Quaderno di Santiago",
+    "category": "Libros",
+    "venue": "Sala ANFECA, DACEA",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 14,
+    "page": 15,
+    "day": 19,
+    "time": "12:00",
+    "title": "Libro: Gloria Isla",
+    "category": "Libros",
+    "venue": "Vestíbulo CIVE",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 15,
+    "page": 16,
+    "day": 19,
+    "time": "18:00",
+    "title": "Entrega de premios Juchimán de Plata 2026",
+    "category": "Ceremonias",
+    "venue": "Teatro Universitario UJAT",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 16,
+    "page": 17,
+    "day": 20,
+    "time": "10:00",
+    "title": "Recital de poesía: El rumor más inocente",
+    "category": "Literatura",
+    "venue": "DAIA",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 17,
+    "page": 18,
+    "day": 20,
+    "time": "10:00",
+    "title": "Recital de poesía: La distancia y el tiempo",
+    "category": "Literatura",
+    "venue": "DACYTI",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 18,
+    "page": 18,
+    "day": 20,
+    "time": "10:00",
+    "title": "Recital de poesía: Asomancia del tiempo",
+    "category": "Literatura",
+    "venue": "DACB",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 19,
+    "page": 19,
+    "day": 20,
+    "time": "12:00",
+    "title": "Revista Horizonte Sanitario, volumen 25-3",
+    "category": "Libros",
+    "venue": "Auditorio Lic. Manuel Sánchez Mármol, Instituto Juárez",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 20,
+    "page": 20,
+    "day": 20,
+    "time": "18:00",
+    "title": "Gala artística: Ballet Folklórico UJAT y Costumbres de Mi León",
+    "category": "Danza",
+    "venue": "Teatro Universitario UJAT",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 21,
+    "page": 40,
+    "day": 21,
+    "time": "14:00",
+    "title": "Exposición pictográfica: Andrés",
+    "category": "Exposiciones",
+    "venue": "Casa Universitaria del Cacao y Chocolate",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 22,
+    "page": 21,
+    "day": 23,
+    "time": "12:00",
+    "title": "Exposición Imágenes y documentos históricos",
+    "category": "Exposiciones",
+    "venue": "Galería Universitaria, Instituto Juárez",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 23,
+    "page": 22,
+    "day": 23,
+    "time": "18:00",
+    "title": "Gala artística: El baile",
+    "category": "Danza",
+    "venue": "Teatro Universitario UJAT",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 24,
+    "page": 23,
+    "day": 24,
+    "time": "10:00",
+    "title": "Libro: Primera investigación iberoamericana sobre mediación presencial y con IA",
+    "category": "Libros",
+    "venue": "Aula Magna Lic. Francisco J. Santamaría, DACSyH",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 25,
+    "page": 24,
+    "day": 24,
+    "time": "11:00",
+    "title": "Reconocimiento institucional a la mejor tesis 2026",
+    "category": "Ceremonias",
+    "venue": "Auditorio CIVE",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 26,
+    "page": 25,
+    "day": 24,
+    "time": "16:00",
+    "title": "Libro: Cuentos y relatos de horror suave y Los muertos tienen la última palabra",
+    "category": "Libros",
+    "venue": "Auditorio Lic. Manuel Sánchez Mármol, Instituto Juárez",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 27,
+    "page": 26,
+    "day": 24,
+    "time": "18:00",
+    "title": "Gala artística: Big Band Juchimán",
+    "category": "Música",
+    "venue": "Teatro Universitario UJAT",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 28,
+    "page": 27,
+    "day": 25,
+    "time": "09:00",
+    "title": "Seminario Mar, Nación y Memoria",
+    "category": "Conferencias",
+    "venue": "DACSyH",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 29,
+    "page": 28,
+    "day": 25,
+    "time": "10:00",
+    "title": "Libro: Narrativas y desafíos en la atención integral a niñas, niños y adolescentes migrantes",
+    "category": "Libros",
+    "venue": "Vestíbulo CIVE",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 30,
+    "page": 29,
+    "day": 25,
+    "time": "11:00",
+    "title": "2.º Foro de Experiencias",
+    "category": "Conferencias",
+    "venue": "Lobby CIVE",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 31,
+    "page": 30,
+    "day": 25,
+    "time": "12:00",
+    "title": "Revista Ecosistemas y Recursos Agropecuarios: número especial VI",
+    "category": "Libros",
+    "venue": "Auditorio M. V. Z. Juan José Sáiz Zarza, DACA",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 32,
+    "page": 31,
+    "day": 25,
+    "time": "17:00",
+    "title": "Antes de que nos olviden: música de Caifanes y Jaguares",
+    "category": "Música",
+    "venue": "Teatro Universitario UJAT",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 33,
+    "page": 32,
+    "day": 26,
+    "time": "09:30",
+    "title": "2.º Congreso Internacional de Innovación Educativa: inauguración",
+    "category": "Conferencias",
+    "venue": "Auditorio CIVE",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 34,
+    "page": 33,
+    "day": 26,
+    "time": "11:00",
+    "title": "Reconocimientos al mérito académico y científico",
+    "category": "Ceremonias",
+    "venue": "Auditorio CIVE",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 35,
+    "page": 34,
+    "day": 26,
+    "time": "18:00",
+    "title": "Gala artística: 32 aniversario Mukul-Ja",
+    "category": "Música",
+    "venue": "Teatro Universitario UJAT",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 36,
+    "page": 35,
+    "day": 27,
+    "time": "11:00",
+    "title": "5.º Foro de Experiencias de Movilidad Estudiantil",
+    "category": "Conferencias",
+    "venue": "Lobby CIVE",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 37,
+    "page": 36,
+    "day": 27,
+    "time": "11:00",
+    "title": "Premiación del 7.º Foro El Edén de la Ciencia",
+    "category": "Ceremonias",
+    "venue": "Sala Jorge Membreño",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 38,
+    "page": 37,
+    "day": 27,
+    "time": "17:00",
+    "title": "Libro: Tacotalpa, tradición y cultura",
+    "category": "Libros",
+    "venue": "Espacio Escénico Juchimán, Instituto Juárez",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 39,
+    "page": 37,
+    "day": 27,
+    "time": "19:00",
+    "title": "Inauguración del video mapping universitario Juchimán",
+    "category": "Arte",
+    "venue": "Instituto Juárez",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 40,
+    "page": 39,
+    "day": 27,
+    "time": "13:00",
+    "title": "Taller Guardianes de los primates mexicanos",
+    "category": "Talleres",
+    "venue": "Casa Universitaria del Agua",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 41,
+    "page": 38,
+    "day": 28,
+    "time": "18:00",
+    "title": "Gala del Ballet Folklórico del Gobierno del Estado de Tabasco",
+    "category": "Danza",
+    "venue": "Teatro Universitario UJAT",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 42,
+    "page": 40,
+    "day": 28,
+    "time": "11:00",
+    "title": "Degustación de chocolate Yokolate Chokotan",
+    "category": "Gastronomía",
+    "venue": "Casa Universitaria del Cacao y Chocolate",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  },
+  {
+    "id": 43,
+    "page": 41,
+    "day": 29,
+    "time": "06:30",
+    "title": "5.º Paseo Recreativo Ciclista UJAT 2026, 11 km",
+    "category": "Deporte",
+    "venue": "Parque La Choca",
+    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+  }
+]

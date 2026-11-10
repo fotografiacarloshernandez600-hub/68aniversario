@@ -7,7 +7,7 @@
     "title": "Ceremonia de inauguración del 68 aniversario",
     "category": "Ceremonias",
     "venue": "Auditorio CIVE",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Ceremonia oficial de inauguración de los festejos por el 68 aniversario de la Universidad Juárez Autónoma de Tabasco, en el Auditorio del Centro Internacional de Vinculación y Enseñanza (CIVE)."
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "title": "Recital de poesía: Las hortensias azules",
     "category": "Literatura",
     "venue": "Vestíbulo CIVE",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Recital de poesía «Las hortensias azules» con poetas invitados: Waldo Leyva (Cuba), Andrea Cote (Colombia), Rolando Kattan (Honduras), Dafne Malvasi (Italia) y Rubén Márquez Máximo (México)."
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "title": "Conversatorio: Habitar las páginas, el sentido de leer en papel",
     "category": "Literatura",
     "venue": "Aula Magna Lic. Efraín Pérez Cruz, DAEA",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Conversatorio «Habitar las páginas: el sentido de leer en papel», a cargo de Luis Hedo, en el Aula Magna Lic. Efraín Pérez Cruz de la DAEA."
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "title": "Concierto con sabor a Cuba: Alfonso Llorens",
     "category": "Música",
     "venue": "Teatro Universitario UJAT",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Concierto con sabor a Cuba «Trova sin fin», a cargo de Alfonso Llorens, acompañado por el Taller de Ensamble Contemporáneo del CEDA, en el Teatro Universitario UJAT, Zona de la Cultura."
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "title": "Recital El origen de la sabiduría y concierto didáctico",
     "category": "Literatura",
     "venue": "Cancha Techada, DAMC",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Recital de poesía «El origen de la sabiduría» con Ernesto González Barnert (Chile), Roxana Carolina (Chile), Margarita Sánchez-Gallinal (Cuba), Harold Alva (Perú) y Álvaro Solís (México). Incluye un concierto didáctico de Alfonso Llorens."
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "title": "Libro: Recuerdos y anécdotas de mi pueblo",
     "category": "Libros",
     "venue": "Vestíbulo CIVE",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Presentación del libro «Recuerdos y anécdotas de mi pueblo», de Miguel Aurelio Cabrera Pujol. Participan María Mendoza Cabrera, Alfredo Arturo Cabrera Gutiérrez y el autor."
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "title": "Maratón aeróbico UJAT 2026",
     "category": "Deporte",
     "venue": "Cancha techada del CDUAT",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Maratón Aeróbico UJAT 2026 «Muévete por tu salud», con baile fitness, aerobance, zumba y combate de Fitness México. Convoca a estudiantes, personal universitario y público general; contempla categorías, premiación y cuotas de recuperación. El cartel incluye información de inscripción y requisitos."
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "title": "Libro: Escribo, luego existo",
     "category": "Libros",
     "venue": "Vestíbulo CIVE",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Presentación del libro «Escribo, luego existo. Antología de periodismo cultural», de Erwin Macario Rodríguez. Participan Jorge Abdo Francis, Emilio de Ygartua Monteverde y el autor."
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "title": "Concierto de gala: Carlos Prieto, Dos carreras, una vida",
     "category": "Música",
     "venue": "Teatro Universitario UJAT",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Concierto de gala «Dos carreras, una vida», con Carlos Prieto, en el Teatro Universitario UJAT, Zona de la Cultura."
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@
     "title": "15.º Maratón de Lectura UJAT: Las aventuras de Pinocho",
     "category": "Literatura",
     "venue": "Auditorio Biblioteca Central Manuel Bartlett Bautista",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "15.º Maratón de Lectura UJAT 2026 dedicado a «Las aventuras de Pinocho», de Carlo Collodi, bajo el lema «La imaginación une el camino; la lectura nos hace crecer»."
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "title": "Libro: Espejo de agua",
     "category": "Libros",
     "venue": "Vestíbulo CIVE",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Presentación de «Espejo de agua. Muestra de poesía y narrativa iberoamericana». Participan Guillermo Narváez Osorio, Leymen Pérez y Luis Hedo. La publicación reúne textos de autores iberoamericanos, entre ellos Waldo Leyva, Pilar del Río, Alberto Ruy Sánchez, Margarita Sánchez-Gallinal, Leonardo Padura, Luis García Montero, Mario Bojórquez, Álvaro Solís y otros."
   },
   {
     "id": 12,
@@ -117,7 +117,7 @@
     "title": "Recital de poesía: Definitivamente jueves",
     "category": "Literatura",
     "venue": "Vestíbulo CIVE",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Recital de poesía «Definitivamente jueves» con Rolando Kattan (Honduras), Andrea Cote (Colombia), Héctor Hernández Montecinos (Chile) y Harold Alva (Perú)."
   },
   {
     "id": 13,
@@ -127,7 +127,7 @@
     "title": "Libro: Cuaderno de Santiago / Quaderno di Santiago",
     "category": "Libros",
     "venue": "Sala ANFECA, DACEA",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Presentación de la edición bilingüe «Cuaderno de Santiago / Quaderno di Santiago», de Dafne Malvasi. Participan Ernesto González Barnert y la autora."
   },
   {
     "id": 14,
@@ -137,7 +137,7 @@
     "title": "Libro: Gloria Isla",
     "category": "Libros",
     "venue": "Vestíbulo CIVE",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Presentación del libro «Gloria Isla», de Margarita Sánchez-Gallinal. Participan Dora María Frías Márquez, Waldo Leyva y la autora."
   },
   {
     "id": 15,
@@ -147,7 +147,7 @@
     "title": "Entrega de premios Juchimán de Plata 2026",
     "category": "Ceremonias",
     "venue": "Teatro Universitario UJAT",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Ceremonia de entrega de los premios Juchimán de Plata 2026. El cartel destaca a Silvia Molina (escritora), Luis Hedo Gómez (empresario editorial), Álvaro Solís (poeta) y Cecilio Ruiz Ferrer (beisbolista profesional)."
   },
   {
     "id": 16,
@@ -157,7 +157,7 @@
     "title": "Recital de poesía: El rumor más inocente",
     "category": "Literatura",
     "venue": "DAIA",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Recital de poesía «El rumor más inocente» con Waldo Leyva (Cuba), Margarita Sánchez-Gallinal (Cuba), Roxana Carolina (Chile) y Rubén Márquez Máximo (México)."
   },
   {
     "id": 17,
@@ -167,7 +167,7 @@
     "title": "Recital de poesía: La distancia y el tiempo",
     "category": "Literatura",
     "venue": "DACYTI",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Recital de poesía «La distancia y el tiempo» en la DACYTI, con Leymen Pérez (Cuba), Héctor Hernández Montecinos (Chile), Andrea Cote (Colombia) y Harold Alva (Perú)."
   },
   {
     "id": 18,
@@ -177,7 +177,7 @@
     "title": "Recital de poesía: Asomancia del tiempo",
     "category": "Literatura",
     "venue": "DACB",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Recital de poesía «Asomancia del tiempo» en la DACB, con Rolando Kattan (Honduras), Dafne Malvasi (Italia) y Ernesto González Barnert (Chile)."
   },
   {
     "id": 19,
@@ -187,7 +187,7 @@
     "title": "Revista Horizonte Sanitario, volumen 25-3",
     "category": "Libros",
     "venue": "Auditorio Lic. Manuel Sánchez Mármol, Instituto Juárez",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Presentación del volumen 25-3 de la revista «Horizonte Sanitario». Participan Wilfrido Miguel Contreras Sánchez (UJAT), Pedro Ovando Vázquez (Sistema Nacional de Publicaciones Científicas y Humanísticas, SECIHTI), Alejandra Casanova Priego (CCYTET) y Jaime Busquet García (UJAT). Modera Heberto Romeo Priego Álvarez, editor en jefe de la revista."
   },
   {
     "id": 20,
@@ -197,7 +197,7 @@
     "title": "Gala artística: Ballet Folklórico UJAT y Costumbres de Mi León",
     "category": "Danza",
     "venue": "Teatro Universitario UJAT",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Gala artística con el Ballet Folklórico de la UJAT y el Grupo Folklórico Costumbres de Mi León, en el Teatro Universitario UJAT."
   },
   {
     "id": 21,
@@ -206,8 +206,8 @@
     "time": "14:00",
     "title": "Exposición pictográfica: Andrés",
     "category": "Exposiciones",
-    "venue": "Casa Universitaria del Cacao y Chocolate",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "venue": "Sala de usos múltiples, Casa Universitaria del Cacao y Chocolate",
+    "description": "Exposición pictográfica «Andrés», presentada por José Isabel García Morales en la sala de usos múltiples de la Casa Universitaria del Cacao y Chocolate."
   },
   {
     "id": 22,
@@ -217,7 +217,7 @@
     "title": "Exposición Imágenes y documentos históricos",
     "category": "Exposiciones",
     "venue": "Galería Universitaria, Instituto Juárez",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Exposición «Imágenes y documentos históricos del Instituto Juárez y la Universidad Juárez Autónoma de Tabasco», por Laura Yuliana Rodríguez Robles y Héctor Valencia Reyes, en la Galería Universitaria del Instituto Juárez."
   },
   {
     "id": 23,
@@ -227,7 +227,7 @@
     "title": "Gala artística: El baile",
     "category": "Danza",
     "venue": "Teatro Universitario UJAT",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Gala artística «El baile» con la Compañía de Danza Folklórica de la Ciudad de Villahermosa, en el Teatro Universitario UJAT."
   },
   {
     "id": 24,
@@ -237,7 +237,7 @@
     "title": "Libro: Primera investigación iberoamericana sobre mediación presencial y con IA",
     "category": "Libros",
     "venue": "Aula Magna Lic. Francisco J. Santamaría, DACSyH",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Presentación del libro «Primera investigación iberoamericana sobre mediación presencial y con IA». Participan Ivonne Adriana Gaytán Bertruy (responsable técnica del proyecto), Miguel Alberto Romero Pérez, Alfonso Calcaño Sánchez, Ingrid Pamela Hernández Sánchez y Wilfrido Miguel Contreras Sánchez (moderador)."
   },
   {
     "id": 25,
@@ -247,7 +247,7 @@
     "title": "Reconocimiento institucional a la mejor tesis 2026",
     "category": "Ceremonias",
     "venue": "Auditorio CIVE",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Reconocimiento Institucional a la Mejor Tesis 2026, ceremonia universitaria dedicada a destacar trabajos de tesis sobresalientes, en el Auditorio del CIVE."
   },
   {
     "id": 26,
@@ -257,7 +257,7 @@
     "title": "Libro: Cuentos y relatos de horror suave y Los muertos tienen la última palabra",
     "category": "Libros",
     "venue": "Auditorio Lic. Manuel Sánchez Mármol, Instituto Juárez",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Presentación de los libros «Cuentos y relatos de horror suave» y «Los muertos tienen la última palabra», de Gonzalo J. González Calzada. Participan Guillermo Narváez Osorio, Jorge Abdo Francis, Dolores Peña Moreno y el autor."
   },
   {
     "id": 27,
@@ -267,7 +267,7 @@
     "title": "Gala artística: Big Band Juchimán",
     "category": "Música",
     "venue": "Teatro Universitario UJAT",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Gala artística de la Big Band Juchimán en el Teatro Universitario UJAT, Zona de la Cultura."
   },
   {
     "id": 28,
@@ -277,7 +277,7 @@
     "title": "Seminario Mar, Nación y Memoria",
     "category": "Conferencias",
     "venue": "DACSyH",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Seminario de Historia de la Marina Nacional «Mar, Nación y Memoria». La UJAT y la SEMAR, a través de la Tercera Región Naval, proponen reflexionar sobre la historia de la Secretaría de Marina Armada de México, su legado y su importancia en la identidad y memoria histórica de México. Participan la Tte. Corb. SAIN L. Hist. Brenda Fabiola Sepúlveda Zepeda y el Tte. Corb. SAIN L. Hist. Víctor Epifanio Cruz Ponce."
   },
   {
     "id": 29,
@@ -287,7 +287,7 @@
     "title": "Libro: Narrativas y desafíos en la atención integral a niñas, niños y adolescentes migrantes",
     "category": "Libros",
     "venue": "Vestíbulo CIVE",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Presentación del libro «Narrativas y desafíos en la atención integral a niñas, niños y adolescentes migrantes no acompañados en el contexto de la movilidad internacional». Participan Edna María Gómez López, Izcoatl Jiménez Vargas, Ceyli Guadalupe Hernández Osorio, Moisés David Arcos Marín y Rosy Julissa Frías González. Modera Juan José Padilla Herrera."
   },
   {
     "id": 30,
@@ -297,7 +297,7 @@
     "title": "2.º Foro de Experiencias",
     "category": "Conferencias",
     "venue": "Lobby CIVE",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "2.º Foro de Experiencias «Reconstruyendo la paz desde la comunidad», con enfoque en recorridos pedagógicos en niños, niñas y adultos mayores en Medellín. Convocatoria dirigida a docentes, estudiantes y público general."
   },
   {
     "id": 31,
@@ -307,7 +307,7 @@
     "title": "Revista Ecosistemas y Recursos Agropecuarios: número especial VI",
     "category": "Libros",
     "venue": "Auditorio M. V. Z. Juan José Sáiz Zarza, DACA",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Presentación del número especial VI de la revista «Ecosistemas y Recursos Agropecuarios», titulado «Ciencia y Sustentabilidad en la Producción Agropecuaria». Participan Efraín de la Cruz Lázaro (UJAT), Rodolfo Osorio Osorio (UJAT), José Luis García Hernández (Universidad Juárez del Estado de Durango) y Nadia Florencia Ojeda Roberto (moderadora)."
   },
   {
     "id": 32,
@@ -317,7 +317,7 @@
     "title": "Antes de que nos olviden: música de Caifanes y Jaguares",
     "category": "Música",
     "venue": "Teatro Universitario UJAT",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Espectáculo «Antes de que nos olviden», con música de Caifanes y Jaguares, presentado por el Taller de Ensambles Contemporáneos DAMC. Dirección musical y artística de Samuel Ramos; participan el Taller de Danza Contemporánea DAMC UJAT y Legión Danza. Entrada libre."
   },
   {
     "id": 33,
@@ -327,7 +327,7 @@
     "title": "2.º Congreso Internacional de Innovación Educativa: inauguración",
     "category": "Conferencias",
     "venue": "Auditorio CIVE",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Inauguración del 2.º Congreso Internacional de Innovación Educativa «Calidad educativa y la reestructuración curricular», bajo el lema «Ideas que transforman la educación». El congreso se celebra el 26 y 27 de noviembre de 2026."
   },
   {
     "id": 34,
@@ -337,7 +337,7 @@
     "title": "Reconocimientos al mérito académico y científico",
     "category": "Ceremonias",
     "venue": "Auditorio CIVE",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Ceremonia de entrega de reconocimientos al Mérito Académico y al Mérito Científico en el Auditorio del Centro Internacional de Vinculación y Enseñanza (CIVE), Zona de la Cultura UJAT."
   },
   {
     "id": 35,
@@ -347,7 +347,7 @@
     "title": "Gala artística: 32 aniversario Mukul-Ja",
     "category": "Música",
     "venue": "Teatro Universitario UJAT",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Gala artística por el 32 aniversario de Mukul-Ja, con Tere Estrada y Claudia Cecilia, en el Teatro Universitario UJAT."
   },
   {
     "id": 36,
@@ -357,7 +357,7 @@
     "title": "5.º Foro de Experiencias de Movilidad Estudiantil",
     "category": "Conferencias",
     "venue": "Lobby CIVE",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "5.º Foro de Experiencias de Movilidad Estudiantil, internacional y nacional. Participan Jeanine Esther Sánchez García, Fátima Hernández Salazar, Gabriel Pérez Arteaga y Julissa Elizabeth Quixchán López. Modera Mtra. Mayra Ruiz de Dios."
   },
   {
     "id": 37,
@@ -367,7 +367,7 @@
     "title": "Premiación del 7.º Foro El Edén de la Ciencia",
     "category": "Ceremonias",
     "venue": "Sala Jorge Membreño",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Premiación de estudiantes ganadores del Séptimo Foro «El Edén de la Ciencia», en la Sala Jorge Membreño, Zona de la Cultura UJAT."
   },
   {
     "id": 38,
@@ -377,7 +377,7 @@
     "title": "Libro: Tacotalpa, tradición y cultura",
     "category": "Libros",
     "venue": "Espacio Escénico Juchimán, Instituto Juárez",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Presentación del libro «Tacotalpa, tradición y cultura», de Luis Manuel Hernández Govea. Participan Patricia Iparrea Sánchez, Jorge Abdo Francis y el autor, en el Espacio Escénico Juchimán del Instituto Juárez."
   },
   {
     "id": 39,
@@ -387,7 +387,7 @@
     "title": "Inauguración del video mapping universitario Juchimán",
     "category": "Arte",
     "venue": "Instituto Juárez",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Inauguración del video mapping universitario «Juchimán», en el Instituto Juárez, Av. 27 de Febrero #1037, Centro, Tabasco."
   },
   {
     "id": 40,
@@ -396,8 +396,8 @@
     "time": "13:00",
     "title": "Taller Guardianes de los primates mexicanos",
     "category": "Talleres",
-    "venue": "Casa Universitaria del Agua",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "venue": "Casa Universitaria del Agua, calle Gral. Ignacio Zaragoza 720",
+    "description": "Taller «Guardianes de los primates mexicanos», impartido por el Laboratorio de Ecología del Paisaje y Cambio Global de la DACBiol. Cupos limitados; actividades incluidas en el costo de entrada al museo. Reservaciones: casadelaguaujat@gmail.com o Facebook. Dirección: Calle Gral. Ignacio Zaragoza 720, Col. Centro, Barrio Mágico, frente al parque de los Pajaritos."
   },
   {
     "id": 41,
@@ -407,7 +407,7 @@
     "title": "Gala del Ballet Folklórico del Gobierno del Estado de Tabasco",
     "category": "Danza",
     "venue": "Teatro Universitario UJAT",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Presentación de gala del Ballet Folklórico del Gobierno del Estado de Tabasco, en el Teatro Universitario UJAT. Entrada gratuita."
   },
   {
     "id": 42,
@@ -417,7 +417,7 @@
     "title": "Degustación de chocolate Yokolate Chokotan",
     "category": "Gastronomía",
     "venue": "Casa Universitaria del Cacao y Chocolate",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "Degustación de chocolate «Yokolate Chokotan» en la Casa Universitaria del Cacao y Chocolate, Av. 27 de Febrero #1037."
   },
   {
     "id": 43,
@@ -427,6 +427,6 @@
     "title": "5.º Paseo Recreativo Ciclista UJAT 2026, 11 km",
     "category": "Deporte",
     "venue": "Parque La Choca",
-    "description": "Consulta el cartel original para conocer participantes, requisitos y más información de esta actividad."
+    "description": "5.º Paseo Recreativo Ciclista UJAT 2026, recorrido de 11 km para fomentar el deporte, la convivencia familiar y el ciclismo urbano. Salida y meta en el Parque «La Choca». Requisitos: sin casco no se rueda; llevar bicicleta en buen estado; menores de 12 años acompañados por una persona adulta. Registro en línea indicado en el cartel oficial."
   }
 ]
